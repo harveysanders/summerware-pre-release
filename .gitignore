@@ -28,3 +28,6 @@ node_modules
 
 .c9
 .dev
+
+#Mac Stuff
+.DS_Store
